@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Gzao.github.io</id>
     <title>头盖骨</title>
-    <updated>2020-10-07T12:38:40.782Z</updated>
+    <updated>2020-10-07T13:08:32.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Gzao.github.io"/>
     <link rel="self" href="https://Gzao.github.io/atom.xml"/>
-    <subtitle>纯粹的光明就是纯粹的黑暗</subtitle>
+    <subtitle>天下文章贱，
+人间学问贫。</subtitle>
     <logo>https://Gzao.github.io/images/avatar.png</logo>
     <icon>https://Gzao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 头盖骨</rights>
